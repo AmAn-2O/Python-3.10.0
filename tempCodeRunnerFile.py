@@ -1,6 +1,6 @@
 def fun(n):
     try:
-        if (n<0):
+        if (n<=0):
             raise ValueError
         else:
             print(n)
