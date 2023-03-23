@@ -8,7 +8,7 @@
     first=second
     second=next_no
  """
-def leapyear(x):
+def leapyear (x):
  if x%4==0 or x%100==0:
     print(x,"is leap year")
  else:
