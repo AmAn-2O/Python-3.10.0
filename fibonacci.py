@@ -12,4 +12,4 @@ def leapyear (x):
  if x%4==0 or x%100==0:
     print(x,"is leap year")
  else:
-    print(x,"Not a leap year.")
+    print(x," Not a leap year.")
