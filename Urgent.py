@@ -9,7 +9,7 @@ while b!=5:
     if inpt==1:
         key=[]
         value=[]
-        n=int(input('Enter no of elements : '))
+        n=int(input('Enter no of Elements : '))
         for i in range(n):
             ele=input('Enter key ')
             key.append(ele)
